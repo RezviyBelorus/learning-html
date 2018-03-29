@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        function Blog(name, surName){
+            this.name = name;
+            this.surName = surName;
+        }
+
+        Blog.prototype.signature = "My signature.";
+        Blog.prototype.displayUser = function () {
+            alert(this.name + " " + this.surName + ". " + this.signature);
+        };
+
+        var blog = new Blog("Alex", "Fomin");
+        var blog2 = new Blog("Jora", "Ivanov");
+        Blog.showSignature = function () {
+            alert("Signature: " + Blog.prototype.signature + ".");
+        };
+
+        Blog.blogSorter = function (blog1, blog2) {
+            return blog2.date - blog.date;
+        }
+        
+    </script>
+</head>
+<body>
+<input type="button" value="Display" onclick="blog.displayUser()">
+<input type="button" value="Display" onclick="blog2.displayUser()">
+<input type="button" value="Show signature" onclick="Blog.showSignature()">
+</body>
+</html>

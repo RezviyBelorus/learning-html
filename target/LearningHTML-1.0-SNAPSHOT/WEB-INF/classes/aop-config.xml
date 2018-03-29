@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+       http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd
+       http://www.springframework.org/schema/aop
+       http://www.springframework.org/schema/aop/spring-aop-4.0.xsd">
+
+<context:component-scan base-package="springinaction.juggler"/>
+    <aop:aspectj-autoproxy/>
+    <aop:config>
+        <aop:aspect ref="audience">
+            <aop:pointcut id="performance" expression="execution(* springinaction.juggler.Performer.perform(..))"/>
+            <aop:before method="takeSeats" pointcut-ref="performance"/>
+            <aop:before method="turnOffCellPhones" pointcut-ref="performance"/>
+            <aop:after-returning method="applaud" pointcut-ref="performance"/>
+            <aop:after-throwing method="demandRefund" pointcut-ref="performance"/>
+            <aop:around method="watchPerformance" pointcut-ref="performance"/>
+        </aop:aspect>
+
+        <aop:aspect ref="magician">
+            <aop:pointcut id="thinking"
+                          expression="execution(* springinaction.juggler.Tinker.thinkOfSomething(String)) and args(thoughts)"/>
+            <aop:before method="interceptThoughts"
+                        pointcut-ref="thinking"
+                        arg-names="thoughts"/>
+        </aop:aspect>
+
+        <aop:aspect>
+            <aop:declare-parents types-matching="springinaction.juggler.Performer+"
+                                 implement-interface="springinaction.juggler.Contestant"
+                                 default-impl="springinaction.juggler.DancerContestant"/>
+        </aop:aspect>
+    </aop:config>
+
+    <bean id="audience" class="springinaction.juggler.Audience"/>
+    <bean id="audienceanno" class="springinaction.juggler.AudienceAnno"/>
+    <bean id="magician" class="springinaction.juggler.MagicianMindReader"/>
+    <bean id="magiciananno" class="springinaction.juggler.MagicianMindReaderAnno"/>
+    <bean id="volunteer" class="springinaction.juggler.Volunteer"/>
+    <!--<bean id="contestant" class="springinaction.juggler.ContestantIntroducer"/>-->
+    <!--<bean id="contestantDancer" class="springinaction.juggler.ContestantIntroducer"/>-->
+
+    <bean id="duke" class="springinaction.juggler.Juggler">
+        <constructor-arg value="15"/>
+    </bean>
+</beans>

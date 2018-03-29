@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        window.onload = function () {
+            var button = document.createElement("button");
+            var text = document.createTextNode("My button");
+            button.appendChild(text);
+            //            button.createTextNode("My_button");
+            document.getElementById("mybody").appendChild(button);
+        }
+
+        function display(text) {
+            alert(text);
+        }
+    </script>
+</head>
+<body id="mybody">
+<button>Show text</button>
+</body>
+</html>

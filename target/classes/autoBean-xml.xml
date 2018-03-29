@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+<bean id="foo" class="spring4pro.autobeanxml.Foo"/>
+<bean id="bar1" class="spring4pro.autobeanxml.Bar"/>
+    <bean id="targetByName" autowire="byName" class="spring4pro.autobeanxml.Target" lazy-init="true"/>
+    <bean id="targetByType" autowire="byType" class="spring4pro.autobeanxml.Target" lazy-init="true"/>
+    <bean id="targetConstructor" autowire="constructor" class="spring4pro.autobeanxml.Target" lazy-init="true"/>
+
+</beans>

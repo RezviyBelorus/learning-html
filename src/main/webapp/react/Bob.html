@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://unpkg.com/react@16/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/babel-standalone@6.15.0/babel.min.js"></script>
+</head>
+<body>
+<div id="app"></div>
+</body>
+<script type="text/babel">
+    ReactDOM.render(
+        React.createElement(TextAreaCounter, {
+            text: "Bob",
+        }),
+        document.getElementById("app")
+    )
+
+    var React = require('react');
+    var createReactClass = require('create-react-class');
+
+    var TextAreaCounter = createReactClass({
+        propTypes: {
+            text: React.PropTypes.string,
+        },
+        getDefaultProps: function () {
+            return {
+                text: '',
+            };
+        },
+        render: function () {
+            return React.DOM.div(null,
+                React.DOM.textarea({
+                    defaultValue: this.props.text,
+                }),
+                React.DOM.h3(null, this.props.text.length)
+            );
+        }
+    });
+</script>
+</html>

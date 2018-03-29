@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        var ROLL_FILM = "Roll film!";
+
+        var array = new Array();
+
+        function rollFilm() {
+            var param = document.getElementById("seconds").value;
+            var secBeforeStart = parseInt(param);
+            if (secBeforeStart > 0) {
+                for (var x = secBeforeStart; x > 0 ; x--) {
+                    alert("Starting in " + x);
+                }
+                alert(ROLL_FILM)
+            } else {
+                alert(ROLL_FILM)
+            }
+        }
+
+        function testArray() {
+            var array =  new Array();
+            array[11] = 12;
+            array[12] = "Sex";
+            if(array[18] == 0) {
+                alert("All is ok")
+            } else {
+                alert("Smth was wrong")
+            }
+        }
+
+        function promptFromUser() {
+            var count = prompt("Enter a number:", "10");
+            alert(count);
+        }
+    </script>
+</head>
+<body onload="promptFromUser()">
+<form onsubmit="rollFilm()">
+    <input type="text" id="seconds">
+<button>Start!</button>
+</form>
+</body>
+</html>

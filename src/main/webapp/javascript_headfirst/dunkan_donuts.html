@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Пончики Дункана к указанному времени</title>
+    <link rel="stylesheet" type="text/css" href="../resources/donuts.css">
+    <script type="text/javascript">
+        function updateOrder() {
+            const TAXRATE = 1;
+            const DONUTPRICE = 0.5;
+            var numCakeDonuts = parseDonuts(document.getElementById("cakedonuts").value);
+            var numGlazedDonuts = parseDonuts(document.getElementById("glazeddonuts").value);
+            if (isNaN(numCakeDonuts)) {
+                numCakeDonuts = 0;
+            }
+            if (isNaN(numGlazedDonuts)) {
+                numGlazedDonuts = 0;
+            }
+            var subTotal = (numCakeDonuts + numGlazedDonuts) * DONUTPRICE;
+            var tax = subTotal * TAXRATE;
+            var total = subTotal + tax;
+            var sum = numCakeDonuts + numGlazedDonuts;
+            document.getElementById("subtotal").value = "$" + subTotal.toFixed(2);
+            document.getElementById("tax").value = "$" + tax.toFixed(2);
+            document.getElementById("total").value = "$" + total.toFixed(2);
+        }
+
+        function placeOrder() {
+            //Передать заказ на сервер...
+            var pickupMinutes = document.getElementById("pickupminutes").value;
+            if (document.getElementById("name").value == "") {
+                alert("I am sorry, but you must provide your name before submitting an order")
+            } else if (pickupMinutes == "" || isNaN(pickupMinutes)) {
+                alert("I am sorry but you must provide the number of minutes until pickup before submitting an order")
+
+            } else {
+                form.submit();
+            }
+        }
+
+        function parseDonuts(donutString) {
+            numDonuts = parseInt(donutString);
+            if(donutString.indexOf("dozen") != -1) {
+                if(isNaN(numDonuts)) {
+                    numDonuts=12;
+                } else {
+                    numDonuts *= 12;
+                }
+            }
+            return numDonuts;
+        }
+    </script>
+</head>
+<body>
+<div id="frame">
+    <form name="orderform" action="irock.html" method="post">
+        <div class="field">
+            Ваше имя: <input type="text" id="name" name="name" value=""
+                             onchange="updateOrder()">
+        </div>
+        <div class="field">
+            Число пончиков: <input type="text" id="cakedonuts" name="cakedonuts" value=""
+                                   onchange="updateOrder()">
+        </div>
+        <div class="field">
+            Глазизованных: <input type="text" id="glazeddonuts" name="glazeddonuts" value="" onchange="updateOrder()">
+        </div>
+        <div class="field">
+            Minutes till pickup: <input type="text" id="pickupminutes" name="pickupminutes" value=""
+                                        onchange="updateOrder()">
+        </div>
+        <!--<div class="field">-->
+            <!--Количество пончиков: <input type="text" id="sum" name="sum" value="">-->
+        <!--</div>-->
+        <div class="field">
+            Subtotal: <input type="text" id="subtotal" name="subtotal" value="">
+        </div>
+        <div class="field">
+            Tax: <input type="text" id="tax" name="tax" value="">
+        </div>
+        <div class="field">
+            Total: <input type="text" id="total" name="total" value="">
+        </div>
+        <div class="field">
+            <input type="button" value="Сделать заказ" onclick="placeOrder(this.form)">
+        </div>
+    </form>
+
+</div>
+</body>
+</html>

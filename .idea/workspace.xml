@@ -1,0 +1,2059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="LearningHTML:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59ec0ffd-971b-44b5-8dd3-2b2093658b02" name="Default" comment="Spring added">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/portfolio_Ira.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/stream_api/ListFilterFindAnyOrElse.java" afterPath="$PROJECT_DIR$/src/main/java/stream_api/ListFilterFindAnyOrElse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/test/Main.java" afterPath="$PROJECT_DIR$/src/main/java/test/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/spring/terminator/annotation/InjectInt.java" afterPath="$PROJECT_DIR$/src/main/java/spring/terminator/annotation/InjectInt.java" />
+      <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/statistics.toolbar.clicks.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/statistics.toolbar.clicks.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/spring/terminator/TerminatorMain.java" afterPath="$PROJECT_DIR$/src/main/java/spring/terminator/TerminatorMain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LearningHTML.iml" afterPath="$PROJECT_DIR$/LearningHTML.iml" />
+      <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/statistics.shortcuts.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/statistics.shortcuts.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/test/Main.class" afterPath="$PROJECT_DIR$/target/classes/test/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/spring/terminator/interfaces/Quoter.java" afterPath="$PROJECT_DIR$/src/main/java/spring/terminator/interfaces/Quoter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/stream_api/ListMap.java" afterPath="$PROJECT_DIR$/src/main/java/stream_api/ListMap.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/spring/terminator/beanpostprocessor/InjectIntAnnotationBeanPostProcessor.java" afterPath="$PROJECT_DIR$/src/main/java/spring/terminator/beanpostprocessor/InjectIntAnnotationBeanPostProcessor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/spring/terminator/interfaces/impl/Terminator.java" afterPath="$PROJECT_DIR$/src/main/java/spring/terminator/interfaces/impl/Terminator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/LearningHTML_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/LearningHTML_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/spring/terminator/ApplicationConfig.java" afterPath="$PROJECT_DIR$/src/main/java/spring/terminator/ApplicationConfig.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="spring_jdbc@localhost" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="spring_jdbc@localhost" type="e3449647:DbNodeDescriptor" />
+        <item name="spring_jdbc" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="spring_jdbc@localhost" type="e3449647:DbNodeDescriptor" />
+        <item name="spring_jdbc" type="e3449647:DbNodeDescriptor" />
+        <item name="book" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="spring_jdbc@localhost" type="e3449647:DbNodeDescriptor" />
+        <item name="spring_jdbc" type="e3449647:DbNodeDescriptor" />
+        <item name="hobby" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="spring_jdbc@localhost" type="e3449647:DbNodeDescriptor" />
+        <item name="spring_jdbc" type="e3449647:DbNodeDescriptor" />
+        <item name="men" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="spring_jdbc@localhost" type="e3449647:DbNodeDescriptor" />
+        <item name="spring_jdbc" type="e3449647:DbNodeDescriptor" />
+        <item name="student" type="e3449647:DbNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Terminator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/spring/terminator/interfaces/impl/Terminator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InjectIntAnnotationBeanPostProcessor.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/spring/terminator/beanpostprocessor/InjectIntAnnotationBeanPostProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="27" column="11" lean-forward="false" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="portfolio_Ira.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/portfolio_Ira.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1275">
+              <caret line="85" column="11" lean-forward="false" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TerminatorMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/spring/terminator/TerminatorMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="CSS File" />
+        <option value="spring-beans.schema" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>time</find>
+      <find>article</find>
+      <find>selected</find>
+      <find>blog</find>
+      <find>heading</find>
+      <find>radio</find>
+      <find>fiel</find>
+      <find>bean</find>
+      <find>ground</find>
+      <find>label</find>
+      <find>secti</find>
+      <find>header</find>
+      <find>duke</find>
+      <find>poem</find>
+      <find>instrument</find>
+      <find>get</find>
+      <find>Provider</find>
+      <find>orm</find>
+      <find>float</find>
+      <find>beverages</find>
+      <find>connector</find>
+      <find>spring-core</find>
+      <find>spring-tx</find>
+      <find>hibernate-core</find>
+      <find>commons-dbcp</find>
+      <find>hibernate</find>
+      <find>compare</find>
+      <find>Please enter exactly five digits</find>
+      <find>message_help</find>
+      <find>Math.abs</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/myservlet/SendMail.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/properties-xml.xml" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/0a293ce6-8906-48a0-ab50-39f2f7796e85/console.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/multythreading/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/syncronised_example/SyncronisedThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/syncronised_example/SynchronisedThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/syncronised_example/Service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/syncronised_example/SynchronisedService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/syncronised_example/ServiceDec.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/syncronised_example/ServiceInc.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myservlet/MyServletAnnotation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/servlet/MyServletAnnotation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/servlet/AsyncServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nashorn/NashornMain.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/simple_pagination/simple_pagination.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/javascript_headfirst/dunkan_donuts.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/cookie.js" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/syncronised_example/MainSync.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/sfa1.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/forTest.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/javascript_headfirst/forTest.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/javascript_headfirst/bannerocity7.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/javascript_headfirst/irock.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/javascript_headfirst/testDom.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/javascript_headfirst/testPrototype.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/javascript_headfirst/youcube13.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/react/helloworld.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/react/hw.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/react/Bob.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/portfolio_3.html" />
+        <option value="$PROJECT_DIR$/src/main/java/stream_api/ListStreamExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/stream_api/ListSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/stream_api/ListSortPrimitives.java" />
+        <option value="$PROJECT_DIR$/src/main/java/stream_api/entity/Movie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/stream_api/ListSortObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spring/terminator/interfaces/Quoter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spring/terminator/TerminatorMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spring/terminator/annotation/InjectInt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spring/terminator/ApplicationConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spring/terminator/interfaces/impl/Terminator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/stream_api/ListFilterFindAnyOrElse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/stream_api/entity/ListMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/stream_api/ListMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spring/webmvc/ApplicationConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/portfolio_2.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/portfolio_Ira.html" />
+        <option value="$PROJECT_DIR$/src/main/java/spring/terminator/beanpostprocessor/InjectIntAnnotationBeanPostProcessor.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/test/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="LearningHTML" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="LearningHTML" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="828" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LearningHTML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningHTML" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearningHTML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningHTML" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearningHTML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningHTML" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearningHTML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningHTML" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearningHTML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningHTML" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearningHTML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningHTML" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="terminator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearningHTML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningHTML" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="terminator" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearningHTML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningHTML" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="terminator" type="462c0819:PsiDirectoryNode" />
+              <item name="beanpostprocessor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearningHTML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningHTML" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="terminator" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearningHTML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningHTML" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="terminator" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearningHTML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningHTML" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring4pro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearningHTML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningHTML" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springkiller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearningHTML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningHTML" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="stream_api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearningHTML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningHTML" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="stream_api" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearningHTML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningHTML" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearningHTML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningHTML" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearningHTML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningHTML" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearningHTML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningHTML" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="borisov" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="touchsoft" />
+      <recent name="spring4pro" />
+      <recent name="spring" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/javascript_headfirst" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/javascript_headfirst/img" />
+      <recent name="$PROJECT_DIR$/src/main/resources/images" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/javascript_headfirst" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/jpa/manytomanyspringdata" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="jpa.springdata" />
+      <recent name="web" />
+      <recent name="spring.contextcomponentscan" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="touchsoft.problem1" />
+      <recent name="jpa.springdata" />
+      <recent name="jpa.siteExample" />
+      <recent name="jpa" />
+      <recent name="borisov.springdata" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ListFilterFindAnyOrElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="stream_api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="stream_api.ListFilterFindAnyOrElse" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LearningHTML" />
+      <envs />
+    </configuration>
+    <configuration name="ListMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="stream_api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="stream_api.ListMap" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LearningHTML" />
+      <envs />
+    </configuration>
+    <configuration name="ListSortObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="stream_api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="stream_api.ListSortObject" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LearningHTML" />
+      <envs />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="test.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LearningHTML" />
+      <envs />
+    </configuration>
+    <configuration name="TerminatorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="spring.terminator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="spring.terminator.TerminatorMain" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LearningHTML" />
+      <envs />
+    </configuration>
+    <configuration name="TomCat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.0.M22" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="LearningHTML:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_LearningHTML" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55437" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="Make" enabled="false" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="LearningHTML:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LearningHTML" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.TomCat" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ListSortObject" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TerminatorMain" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ListFilterFindAnyOrElse" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ListMap" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TerminatorMain" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ListMap" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ListFilterFindAnyOrElse" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ListSortObject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59ec0ffd-971b-44b5-8dd3-2b2093658b02" name="Default" comment="" />
+      <created>1500042458602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1500042458602</updated>
+      <workItem from="1500042464414" duration="840000" />
+      <workItem from="1500224958636" duration="1610000" />
+      <workItem from="1500226748473" duration="609000" />
+      <workItem from="1500227417406" duration="21000" />
+      <workItem from="1500227456328" duration="1302000" />
+      <workItem from="1500230600673" duration="1443000" />
+      <workItem from="1500232476949" duration="1628000" />
+      <workItem from="1500274835018" duration="1459000" />
+      <workItem from="1500276794615" duration="35000" />
+      <workItem from="1500276848879" duration="608000" />
+      <workItem from="1500279451190" duration="1352000" />
+      <workItem from="1500281327297" duration="867000" />
+      <workItem from="1500283409087" duration="458000" />
+      <workItem from="1500285238377" duration="851000" />
+      <workItem from="1500290277595" duration="180000" />
+      <workItem from="1500290463952" duration="88000" />
+      <workItem from="1500290569508" duration="177000" />
+      <workItem from="1500293530690" duration="1296000" />
+      <workItem from="1500295339701" duration="229000" />
+      <workItem from="1500297170313" duration="1126000" />
+      <workItem from="1500300275197" duration="1102000" />
+      <workItem from="1500313946887" duration="862000" />
+      <workItem from="1500316228792" duration="1488000" />
+      <workItem from="1500319770056" duration="419000" />
+      <workItem from="1500361944544" duration="224000" />
+      <workItem from="1500364098709" duration="1326000" />
+      <workItem from="1500365914627" duration="967000" />
+      <workItem from="1500368036695" duration="844000" />
+      <workItem from="1500369854742" duration="849000" />
+      <workItem from="1500371663446" duration="846000" />
+      <workItem from="1500374485791" duration="1551000" />
+      <workItem from="1500376300576" duration="6000" />
+      <workItem from="1500376313406" duration="1030000" />
+      <workItem from="1500378326698" duration="777000" />
+      <workItem from="1500380138121" duration="1114000" />
+      <workItem from="1500382785379" duration="652000" />
+      <workItem from="1500383557828" duration="4000" />
+      <workItem from="1500383583747" duration="5355000" />
+      <workItem from="1500448650341" duration="10904000" />
+      <workItem from="1500488128211" duration="4470000" />
+      <workItem from="1500533378617" duration="11689000" />
+      <workItem from="1500578263768" duration="1284000" />
+      <workItem from="1500619413719" duration="18824000" />
+      <workItem from="1500654222146" duration="657000" />
+      <workItem from="1500793215736" duration="108000" />
+      <workItem from="1500793707547" duration="160000" />
+      <workItem from="1500796127180" duration="178000" />
+      <workItem from="1501002290308" duration="17000" />
+      <workItem from="1503650934492" duration="161000" />
+      <workItem from="1503651384380" duration="20000" />
+      <workItem from="1503994692120" duration="999000" />
+      <workItem from="1503995903011" duration="436000" />
+      <workItem from="1503996379362" duration="856000" />
+      <workItem from="1503997317154" duration="1398000" />
+      <workItem from="1503998871726" duration="1231000" />
+      <workItem from="1504001061335" duration="411000" />
+      <workItem from="1504002186498" duration="1693000" />
+      <workItem from="1504003998692" duration="908000" />
+      <workItem from="1504006480959" duration="665000" />
+      <workItem from="1504008770742" duration="800000" />
+      <workItem from="1504016278007" duration="1749000" />
+      <workItem from="1504018088874" duration="319000" />
+      <workItem from="1504018429550" duration="931000" />
+      <workItem from="1504020293643" duration="1027000" />
+      <workItem from="1504022198922" duration="239000" />
+      <workItem from="1504027685606" duration="780000" />
+      <workItem from="1504029567532" duration="1205000" />
+      <workItem from="1504074137606" duration="247000" />
+      <workItem from="1504075755990" duration="1484000" />
+      <workItem from="1504077579295" duration="1294000" />
+      <workItem from="1504079389341" duration="1258000" />
+      <workItem from="1504082127030" duration="1441000" />
+      <workItem from="1504083927218" duration="1831000" />
+      <workItem from="1504086598869" duration="1596000" />
+      <workItem from="1504088411317" duration="749000" />
+      <workItem from="1504090688321" duration="1195000" />
+      <workItem from="1504099522609" duration="1030000" />
+      <workItem from="1504107793625" duration="1721000" />
+      <workItem from="1504110614657" duration="1611000" />
+      <workItem from="1504112427499" duration="1601000" />
+      <workItem from="1504115219814" duration="384000" />
+      <workItem from="1504161524154" duration="569000" />
+      <workItem from="1504163455068" duration="186000" />
+      <workItem from="1504163742388" duration="995000" />
+      <workItem from="1504165893986" duration="171000" />
+      <workItem from="1504167711586" duration="888000" />
+      <workItem from="1504173677244" duration="1228000" />
+      <workItem from="1504189879739" duration="247000" />
+      <workItem from="1504194269822" duration="1607000" />
+      <workItem from="1504196087542" duration="1578000" />
+      <workItem from="1504198207863" duration="310000" />
+      <workItem from="1504249724902" duration="1640000" />
+      <workItem from="1504251531164" duration="529000" />
+      <workItem from="1504252581119" duration="237000" />
+      <workItem from="1504259745950" duration="1181000" />
+      <workItem from="1504262699734" duration="778000" />
+      <workItem from="1504269369602" duration="1507000" />
+      <workItem from="1504271195455" duration="1552000" />
+      <workItem from="1504273362116" duration="904000" />
+      <workItem from="1504275209541" duration="499000" />
+      <workItem from="1504345499819" duration="1138000" />
+      <workItem from="1504346784496" duration="8000" />
+      <workItem from="1504619545293" duration="612000" />
+      <workItem from="1504620410608" duration="684000" />
+      <workItem from="1504682545031" duration="1576000" />
+      <workItem from="1504684620971" duration="1713000" />
+      <workItem from="1504686439085" duration="1100000" />
+      <workItem from="1504687740553" duration="1794000" />
+      <workItem from="1504689746073" duration="1312000" />
+      <workItem from="1504692700238" duration="1035000" />
+      <workItem from="1504695361723" duration="283000" />
+      <workItem from="1504697941927" duration="1289000" />
+      <workItem from="1504766139194" duration="46000" />
+      <workItem from="1504770113399" duration="1488000" />
+      <workItem from="1504771754424" duration="1635000" />
+      <workItem from="1504773572574" duration="1033000" />
+      <workItem from="1504775862160" duration="1130000" />
+      <workItem from="1504780768705" duration="301000" />
+      <workItem from="1504785734299" duration="395000" />
+      <workItem from="1504793496612" duration="1636000" />
+      <workItem from="1504852757480" duration="193000" />
+      <workItem from="1504852997718" duration="10000" />
+      <workItem from="1504876941022" duration="13000" />
+      <workItem from="1504877878798" duration="669000" />
+      <workItem from="1504878612926" duration="1018000" />
+      <workItem from="1504881065892" duration="238000" />
+      <workItem from="1504881564019" duration="470000" />
+      <workItem from="1504882998893" duration="151000" />
+      <workItem from="1504883522653" duration="406000" />
+      <workItem from="1504884128085" duration="69000" />
+      <workItem from="1504891316742" duration="109000" />
+      <workItem from="1505153160916" duration="1240000" />
+      <workItem from="1505154600826" duration="99000" />
+      <workItem from="1505315805218" duration="360000" />
+      <workItem from="1505341330756" duration="113000" />
+      <workItem from="1505341521490" duration="334000" />
+      <workItem from="1505374604097" duration="193000" />
+      <workItem from="1505385980396" duration="839000" />
+      <workItem from="1505387074960" duration="1750000" />
+      <workItem from="1505389440247" duration="1616000" />
+      <workItem from="1505397812022" duration="1544000" />
+      <workItem from="1505399774201" duration="1179000" />
+      <workItem from="1505404845912" duration="1466000" />
+      <workItem from="1505407131369" duration="1634000" />
+      <workItem from="1505410658858" duration="6000" />
+      <workItem from="1505412842408" duration="156000" />
+      <workItem from="1505419274755" duration="25000" />
+      <workItem from="1505462867480" duration="1445000" />
+      <workItem from="1505465476940" duration="478000" />
+      <workItem from="1505466009700" duration="943000" />
+      <workItem from="1505469326661" duration="1985000" />
+      <workItem from="1505475937767" duration="582000" />
+      <workItem from="1505496225706" duration="56000" />
+      <workItem from="1505544623646" duration="1694000" />
+      <workItem from="1505546434285" duration="235000" />
+      <workItem from="1505547497488" duration="1529000" />
+      <workItem from="1505549252924" duration="1552000" />
+      <workItem from="1505551206468" duration="1589000" />
+      <workItem from="1505553030379" duration="233000" />
+      <workItem from="1505718457136" duration="1717000" />
+      <workItem from="1505725429638" duration="1746000" />
+      <workItem from="1505727235345" duration="1093000" />
+      <workItem from="1505729088818" duration="1753000" />
+      <workItem from="1505730898819" duration="1704000" />
+      <workItem from="1505732708636" duration="319000" />
+      <workItem from="1505762395250" duration="1674000" />
+      <workItem from="1505764203805" duration="1096000" />
+      <workItem from="1505806525176" duration="670000" />
+      <workItem from="1505808269896" duration="732000" />
+      <workItem from="1505818721175" duration="234000" />
+      <workItem from="1505828531985" duration="1311000" />
+      <workItem from="1505842389406" duration="1640000" />
+      <workItem from="1505844197172" duration="572000" />
+      <workItem from="1505844807629" duration="764000" />
+      <workItem from="1505845621478" duration="359000" />
+      <workItem from="1505846024354" duration="693000" />
+      <workItem from="1505851578466" duration="1660000" />
+      <workItem from="1505853392293" duration="622000" />
+      <workItem from="1505890418235" duration="15000" />
+      <workItem from="1505890483593" duration="853000" />
+      <workItem from="1505891364982" duration="827000" />
+      <workItem from="1505893603869" duration="1713000" />
+      <workItem from="1505895509210" duration="1103000" />
+      <workItem from="1505900856792" duration="29000" />
+      <workItem from="1505902020813" duration="45000" />
+      <workItem from="1505930455082" duration="120000" />
+      <workItem from="1506412332080" duration="432000" />
+      <workItem from="1506413348151" duration="389000" />
+      <workItem from="1506420301295" duration="94000" />
+      <workItem from="1506420425028" duration="238000" />
+      <workItem from="1506421821280" duration="425000" />
+      <workItem from="1506430944568" duration="653000" />
+      <workItem from="1506433672540" duration="1119000" />
+      <workItem from="1506437223405" duration="396000" />
+      <workItem from="1506673697412" duration="555000" />
+      <workItem from="1506674300469" duration="1125000" />
+      <workItem from="1506679225056" duration="1272000" />
+      <workItem from="1506848731725" duration="1740000" />
+      <workItem from="1506893860143" duration="7000" />
+      <workItem from="1506952848111" duration="1041000" />
+      <workItem from="1506955338303" duration="1424000" />
+      <workItem from="1506956973039" duration="375000" />
+      <workItem from="1506963998439" duration="299000" />
+      <workItem from="1506964363965" duration="595000" />
+      <workItem from="1506965011655" duration="19000" />
+      <workItem from="1506965122361" duration="150000" />
+      <workItem from="1506965353957" duration="1652000" />
+      <workItem from="1506967167318" duration="1660000" />
+      <workItem from="1506968975988" duration="1701000" />
+      <workItem from="1506970887580" duration="439000" />
+      <workItem from="1506971630363" duration="1057000" />
+      <workItem from="1506973797231" duration="1746000" />
+      <workItem from="1506975604601" duration="412000" />
+      <workItem from="1507015299612" duration="248000" />
+      <workItem from="1507015599818" duration="1475000" />
+      <workItem from="1507017413935" duration="1746000" />
+      <workItem from="1507019303550" duration="723000" />
+      <workItem from="1507021658875" duration="1637000" />
+      <workItem from="1507023468011" duration="1603000" />
+      <workItem from="1507025573403" duration="842000" />
+      <workItem from="1507028828680" duration="1650000" />
+      <workItem from="1507030643316" duration="1790000" />
+      <workItem from="1507046351301" duration="505000" />
+      <workItem from="1507101711223" duration="462000" />
+      <workItem from="1507107175953" duration="1765000" />
+      <workItem from="1507109021151" duration="932000" />
+      <workItem from="1507110836367" duration="1750000" />
+      <workItem from="1507112700927" duration="1648000" />
+      <workItem from="1507114505630" duration="1710000" />
+      <workItem from="1507116323133" duration="814000" />
+      <workItem from="1507117252249" duration="1683000" />
+      <workItem from="1507119072051" duration="1477000" />
+      <workItem from="1507125174596" duration="941000" />
+      <workItem from="1507136235046" duration="1589000" />
+      <workItem from="1507188214163" duration="584000" />
+      <workItem from="1507193356785" duration="1580000" />
+      <workItem from="1507195460995" duration="1109000" />
+      <workItem from="1507197536866" duration="584000" />
+      <workItem from="1507198300222" duration="919000" />
+      <workItem from="1507203384600" duration="323000" />
+      <workItem from="1507203760097" duration="1159000" />
+      <workItem from="1507214618883" duration="1672000" />
+      <workItem from="1507216437162" duration="1738000" />
+      <workItem from="1507219156275" duration="1379000" />
+      <workItem from="1507223378584" duration="903000" />
+      <workItem from="1507224349529" duration="76000" />
+      <workItem from="1507233729815" duration="290000" />
+      <workItem from="1507273873283" duration="511000" />
+      <workItem from="1507274446625" duration="1774000" />
+      <workItem from="1507276316521" duration="1657000" />
+      <workItem from="1507278142216" duration="1334000" />
+      <workItem from="1507279633646" duration="1731000" />
+      <workItem from="1507281493232" duration="1721000" />
+      <workItem from="1507285380531" duration="1719000" />
+      <workItem from="1507287188337" duration="1734000" />
+      <workItem from="1507289003828" duration="1749000" />
+      <workItem from="1507290895504" duration="1409000" />
+      <workItem from="1507292769472" duration="1593000" />
+      <workItem from="1507294603310" duration="1774000" />
+      <workItem from="1507296609018" duration="74000" />
+      <workItem from="1507309475259" duration="502000" />
+      <workItem from="1507311251894" duration="655000" />
+      <workItem from="1507361388146" duration="1362000" />
+      <workItem from="1507446695872" duration="851000" />
+      <workItem from="1507447587645" duration="564000" />
+      <workItem from="1507452782884" duration="270000" />
+      <workItem from="1507453135004" duration="16000" />
+      <workItem from="1507533619232" duration="1364000" />
+      <workItem from="1507535044195" duration="1501000" />
+      <workItem from="1507537090922" duration="1442000" />
+      <workItem from="1507538572821" duration="1070000" />
+      <workItem from="1507540493524" duration="755000" />
+      <workItem from="1507542386187" duration="597000" />
+      <workItem from="1507544214617" duration="521000" />
+      <workItem from="1507545090195" duration="811000" />
+      <workItem from="1507547326259" duration="595000" />
+      <workItem from="1507549138850" duration="599000" />
+      <workItem from="1507551734054" duration="566000" />
+      <workItem from="1507553561614" duration="580000" />
+      <workItem from="1507555451014" duration="548000" />
+      <workItem from="1507568978562" duration="41000" />
+      <workItem from="1507618291674" duration="785000" />
+      <workItem from="1507621050808" duration="575000" />
+      <workItem from="1507622860534" duration="555000" />
+      <workItem from="1507623954238" duration="589000" />
+      <workItem from="1507625961163" duration="547000" />
+      <workItem from="1507628963179" duration="575000" />
+      <workItem from="1507630262584" duration="565000" />
+      <workItem from="1507639790990" duration="574000" />
+      <workItem from="1507640910087" duration="564000" />
+      <workItem from="1507642165925" duration="567000" />
+      <workItem from="1507643940775" duration="103000" />
+      <workItem from="1507797025028" duration="371000" />
+      <workItem from="1507799727986" duration="1703000" />
+      <workItem from="1507801509743" duration="227000" />
+      <workItem from="1507801776628" duration="1238000" />
+      <workItem from="1507803079976" duration="1747000" />
+      <workItem from="1507818463697" duration="1718000" />
+      <workItem from="1507820275558" duration="1749000" />
+      <workItem from="1507822088985" duration="1739000" />
+      <workItem from="1507823898876" duration="1748000" />
+      <workItem from="1507825983676" duration="1097000" />
+      <workItem from="1507829488095" duration="1115000" />
+      <workItem from="1507880989648" duration="65000" />
+      <workItem from="1507885327323" duration="141000" />
+      <workItem from="1508079182865" duration="581000" />
+      <workItem from="1508136018192" duration="494000" />
+      <workItem from="1508138360236" duration="3000" />
+      <workItem from="1508404344940" duration="76000" />
+      <workItem from="1508748031479" duration="30000" />
+      <workItem from="1508748098357" duration="864000" />
+      <workItem from="1508749829608" duration="44000" />
+      <workItem from="1508749903839" duration="1032000" />
+      <workItem from="1508752669208" duration="971000" />
+      <workItem from="1508753680417" duration="1687000" />
+      <workItem from="1508755584910" duration="739000" />
+      <workItem from="1508757395404" duration="723000" />
+      <workItem from="1508769157213" duration="1452000" />
+      <workItem from="1508774419114" duration="599000" />
+      <workItem from="1508776232627" duration="116000" />
+      <workItem from="1508793865702" duration="726000" />
+      <workItem from="1508796381190" duration="757000" />
+      <workItem from="1508830777833" duration="139000" />
+      <workItem from="1508832091009" duration="652000" />
+      <workItem from="1508833750262" duration="651000" />
+      <workItem from="1508843739613" duration="1150000" />
+      <workItem from="1508845579653" duration="893000" />
+      <workItem from="1508855818861" duration="4000" />
+      <workItem from="1508956984974" duration="725000" />
+      <workItem from="1508963927271" duration="549000" />
+      <workItem from="1509274765610" duration="1751000" />
+      <workItem from="1509283082305" duration="1029000" />
+      <workItem from="1509285091951" duration="654000" />
+      <workItem from="1509310283488" duration="418000" />
+      <workItem from="1509344156198" duration="916000" />
+      <workItem from="1509355837411" duration="8000" />
+      <workItem from="1509364138491" duration="852000" />
+      <workItem from="1509365188846" duration="619000" />
+      <workItem from="1509435302600" duration="708000" />
+      <workItem from="1509444672893" duration="666000" />
+      <workItem from="1509446483550" duration="838000" />
+      <workItem from="1509451021062" duration="1096000" />
+      <workItem from="1509453473081" duration="711000" />
+      <workItem from="1509472204566" duration="10000" />
+      <workItem from="1509480710844" duration="891000" />
+      <workItem from="1509482954061" duration="598000" />
+      <workItem from="1509487576908" duration="113000" />
+      <workItem from="1509521631892" duration="677000" />
+      <workItem from="1509529104038" duration="2045000" />
+      <workItem from="1509531373867" duration="819000" />
+      <workItem from="1509538040999" duration="1224000" />
+      <workItem from="1509539931273" duration="1604000" />
+      <workItem from="1509541749195" duration="1769000" />
+      <workItem from="1509543565208" duration="1586000" />
+      <workItem from="1509545382495" duration="1565000" />
+      <workItem from="1509553887725" duration="1725000" />
+      <workItem from="1509555706159" duration="830000" />
+      <workItem from="1509562582486" duration="1637000" />
+      <workItem from="1509564369329" duration="1711000" />
+      <workItem from="1509610921369" duration="1257000" />
+      <workItem from="1509612767314" duration="1961000" />
+      <workItem from="1509617650881" duration="1896000" />
+      <workItem from="1509622688330" duration="960000" />
+      <workItem from="1509694234068" duration="1325000" />
+      <workItem from="1509702258830" duration="320000" />
+      <workItem from="1509703184759" duration="1141000" />
+      <workItem from="1509711214130" duration="547000" />
+      <workItem from="1509713589489" duration="1432000" />
+      <workItem from="1511981035029" duration="2000" />
+      <workItem from="1512054721172" duration="278000" />
+      <workItem from="1512062961312" duration="606000" />
+      <workItem from="1512063803872" duration="53000" />
+      <workItem from="1512121434083" duration="567000" />
+      <workItem from="1512122047131" duration="406000" />
+      <workItem from="1512139690850" duration="838000" />
+      <workItem from="1512140588594" duration="1090000" />
+      <workItem from="1512141769485" duration="140000" />
+      <workItem from="1512378959184" duration="1728000" />
+      <workItem from="1512380766964" duration="594000" />
+      <workItem from="1512381858755" duration="642000" />
+      <workItem from="1512382608222" duration="1651000" />
+      <workItem from="1512384418741" duration="602000" />
+      <workItem from="1512551037380" duration="12000" />
+      <workItem from="1512634177515" duration="627000" />
+      <workItem from="1512638245237" duration="6000" />
+      <workItem from="1512896087325" duration="529000" />
+      <workItem from="1512980861637" duration="1697000" />
+      <workItem from="1512982659693" duration="1295000" />
+      <workItem from="1512984573949" duration="824000" />
+      <workItem from="1512986394895" duration="870000" />
+      <workItem from="1512991965075" duration="819000" />
+      <workItem from="1512998433393" duration="1746000" />
+      <workItem from="1513000237237" duration="1326000" />
+      <workItem from="1513066188969" duration="1241000" />
+      <workItem from="1513068483120" duration="637000" />
+      <workItem from="1513075283248" duration="11000" />
+      <workItem from="1513328650354" duration="465000" />
+      <workItem from="1513329539650" duration="242000" />
+      <workItem from="1513350983127" duration="242000" />
+      <workItem from="1513519790633" duration="1756000" />
+      <workItem from="1513522207975" duration="1467000" />
+      <workItem from="1513524023797" duration="1823000" />
+      <workItem from="1513526443384" duration="1786000" />
+      <workItem from="1513604749736" duration="154000" />
+      <workItem from="1513752669696" duration="239000" />
+      <workItem from="1513757338259" duration="165000" />
+      <workItem from="1513773047283" duration="1753000" />
+      <workItem from="1513774852448" duration="555000" />
+      <workItem from="1513776115390" duration="577000" />
+      <workItem from="1513859927352" duration="703000" />
+      <workItem from="1514266788916" duration="12000" />
+      <workItem from="1515321021954" duration="760000" />
+      <workItem from="1515323218741" duration="1538000" />
+      <workItem from="1515325585648" duration="1351000" />
+      <workItem from="1515327550473" duration="1373000" />
+      <workItem from="1515329393219" duration="1121000" />
+      <workItem from="1515332272199" duration="872000" />
+      <workItem from="1515397161915" duration="4000" />
+      <workItem from="1515836606949" duration="1479000" />
+      <workItem from="1515840159673" duration="1591000" />
+      <workItem from="1515843847823" duration="1371000" />
+      <workItem from="1515845689478" duration="1372000" />
+      <workItem from="1515847658307" duration="1365000" />
+      <workItem from="1515849822600" duration="1305000" />
+      <workItem from="1516204349575" duration="47000" />
+      <workItem from="1516204420958" duration="1511000" />
+      <workItem from="1516216503415" duration="381000" />
+      <workItem from="1516284823996" duration="1016000" />
+      <workItem from="1516286648488" duration="690000" />
+      <workItem from="1516289623336" duration="262000" />
+      <workItem from="1516300519066" duration="99000" />
+      <workItem from="1516351583617" duration="1582000" />
+      <workItem from="1516357007688" duration="401000" />
+      <workItem from="1516534141791" duration="1361000" />
+      <workItem from="1516535729033" duration="783000" />
+      <workItem from="1516537540724" duration="607000" />
+      <workItem from="1516564646920" duration="451000" />
+      <workItem from="1516607866891" duration="474000" />
+      <workItem from="1517172067027" duration="1390000" />
+      <workItem from="1517213735931" duration="1611000" />
+      <workItem from="1517215543920" duration="1183000" />
+      <workItem from="1517217467488" duration="186000" />
+      <workItem from="1520020906098" duration="1584000" />
+      <workItem from="1520059033481" duration="303000" />
+      <workItem from="1520059354284" duration="557000" />
+      <workItem from="1520154500244" duration="3080000" />
+      <workItem from="1520160542685" duration="155000" />
+      <workItem from="1520160822783" duration="2637000" />
+      <workItem from="1520164852050" duration="282000" />
+      <workItem from="1520607204581" duration="619000" />
+      <workItem from="1520670222188" duration="14000" />
+      <workItem from="1520672667538" duration="141000" />
+      <workItem from="1520968418758" duration="684000" />
+      <workItem from="1521041983359" duration="2165000" />
+      <workItem from="1521125357417" duration="168000" />
+      <workItem from="1522177123196" duration="1942000" />
+      <workItem from="1522345802572" duration="3000" />
+    </task>
+    <task id="LOCAL-00001" summary="Spring added">
+      <created>1520160779176</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1520160779176</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="QuotersTest - 2017.09.29 at 11h 42m 47s.xml">
+      <configuration name="QuotersTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuotersTest - 2017.09.29 at 11h 43m 26s.xml">
+      <configuration name="QuotersTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuotersTest - 2017.09.29 at 11h 43m 38s.xml">
+      <configuration name="QuotersTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuotersTest - 2017.09.29 at 11h 43m 53s.xml">
+      <configuration name="QuotersTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuotersTest - 2017.10.03 at 14h 55m 58s.xml">
+      <configuration name="QuotersTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringDataTest_testSpeaker - 2017.10.03 at 14h 56m 27s.xml">
+      <configuration name="SpringDataTest.testSpeaker" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringDataTest_testSpeaker - 2017.10.03 at 15h 00m 26s.xml">
+      <configuration name="SpringDataTest.testSpeaker" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="454436000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="828" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32784638" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282967" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3251366" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287858" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3233288" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31545064" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904148" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32465753" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3042292" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3042292" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24828532" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32417583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3251366" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904148" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2888889" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287858" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30833334" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29305556" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32469305" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.444206" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3260274" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Spring added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring added" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/springkiller/beanPostProcessorAnnotation/ProfilingHandlerBeanPostProcessor.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/borisov/springdata/SpringDataTest.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/jpa/springdata/SpringDataMain.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/jpa/manytomanyspringdata/MainManyToManySpringData.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/jpa/manytomany/MainManyToMany.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/touchsoft/problem1/BestFit.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/touchsoft/problem1/BestFit.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/quiz/StringSplitter.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/quiz/StringSplitter.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/touchsoft/problem3/Summands.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/servlet/MyServlet.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/servlet/SendMailServlet.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/servlet/SendMail.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/multithreading/syncronised_example/ServiceDec.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/servlet/AsyncServlet.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="121" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/simple_pagination/simple_pagination.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="37" lean-forward="false" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/cookie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/javascript_headfirst/dunkan_donuts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="93" lean-forward="false" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/donuts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/javascript_headfirst/bannerocity3.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/javascript_headfirst/bannerocity2.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/javascript_headfirst/irock.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="64" column="9" lean-forward="false" selection-start-line="52" selection-start-column="8" selection-end-line="64" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="493" column="16" lean-forward="false" selection-start-line="493" selection-start-column="16" selection-end-line="493" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/javascript_headfirst/youcube13_fixes.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/javascript_headfirst/testDom.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/javascript_headfirst/testPrototype.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/react/helloworld.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/react/hw.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="7" column="82" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/react/Bob.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="23" column="42" lean-forward="false" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/javascript_headfirst/bannerocity7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="83" column="21" lean-forward="false" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/javascript_headfirst/sfa1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/syncronised_example/MainSync.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/javascript_headfirst/forTest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="28" lean-forward="false" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/html/number3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/html/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/additional_info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="1183" column="53" lean-forward="true" selection-start-line="1183" selection-start-column="53" selection-end-line="1183" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/stream_api/ListSortPrimitives.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/stream_api/ListSortObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/stream_api/ListStreamExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring/terminator/interfaces/Quoter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/springkiller/beanPostProcessorAnnotation/InjectRandomInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring/terminator/annotation/InjectInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/springkiller/beanPostProcessorAnnotation/InjectRandomIntBeanPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/stream_api/entity/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" column="27" lean-forward="false" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.4.RELEASE/spring-context-5.0.4.RELEASE.jar!/org/springframework/context/annotation/Bean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/stream_api/ListFilterFindAnyOrElse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/stream_api/ListMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring/webmvc/ApplicationConfig.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring/terminator/ApplicationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/portfolio_3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" column="13" lean-forward="false" selection-start-line="55" selection-start-column="8" selection-end-line="59" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/portfolio_2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/portfolio_Ira.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="85" column="11" lean-forward="false" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring/terminator/TerminatorMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring/terminator/interfaces/impl/Terminator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/Counter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring4pro/initdestroy/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="183" column="0" lean-forward="false" selection-start-line="183" selection-start-column="0" selection-end-line="183" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring4pro/initdestroy/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/springkiller/beanPostProcessorAnnotation/DeprecationHandlerBeanFactoryPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/springkiller/beanPostProcessorAnnotation/ProfilingController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring/terminator/beanpostprocessor/InjectIntAnnotationBeanPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="27" column="11" lean-forward="false" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>LearningHTML:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (LearningHTML)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|LearningHTML</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

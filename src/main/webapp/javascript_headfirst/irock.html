@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>iRock - Виртуальный любимец Rock</title>
+    <!--<script type="text/javascript" src="../resources/cookie.js"/>-->
+    <script type="text/javascript">
+        function touchRock() {
+            if (userName) {
+                alert("I like the attention, " + userName + ".Thank you.");
+            } else {
+                userName = prompt("Как вас зовут?", "Введите ваше имя");
+                if (userName) {
+                    alert("Рад вас видеть, " + userName + ".");
+                    document.getElementById("rockImg").src = "../resources/rock_happy.png";
+                    writeCookie("irock_username", userName, 5 * 365);
+                }
+            }
+            happyRock();
+            setTimeout(document.getElementById('rockImg').src = "../resources/rock.png", 5 * 60 * 1000);
+//            var interval = setInterval(standartRock, 5000);
+
+        }
+
+        function standartRock() {
+            document.getElementById("rockImg").src = "../resources/rock.png";
+        }
+
+        function happyRock() {
+            document.getElementById("rockImg").src = "../resources/rock_happy.png";
+        }
+
+        function expandRock() {
+            var style = document.getElementById("rockImg").style;
+            style.height = "100px";
+        }
+
+        function resizeRock() {
+            var style = document.getElementById("rockImg").style;
+            var styleBefore = style.height;
+            style.height = document.body.clientHeight.value * 0.1;
+        }
+
+        function greetUser() {
+            userName = readCookie("irock_username");
+            if (userName) {
+                alert("Hello " + userName + ", I missed you.");
+            } else {
+                alert('Hello, I am your pet rock.');
+            }
+        }
+
+        window.onload = function () {
+            for(var i = 1; i < 3; i++) {
+                document.getElementById("rockImg" + i).onclick = callAlert;
+            }
+            document.getElementById("inputTest").focus();
+
+
+//            document.getElementById("inputTest").onblur = check(this, document.getElementById("help"));
+        }
+
+        function hideButton() {
+            document.getElementById("button").style.visibility = "hidden";
+        }
+
+
+        function check(inputField, helpText) {
+            if(inputField.value.length == 0) {
+                if (helpText != null) {
+                    help.innerHTML = "Please enter a value";
+                }
+            } else {
+                helpText.innerHTML = "";
+            }
+        }
+
+        function callAlert() {
+            alert("sex");
+        }
+
+        //        setTimeout("alert('Wake up');", 5000);
+
+        //        setTimeout(location.reload(true), 5000);
+    </script>
+</head>
+
+<!--<body onload="resizeRock(); greetUser();" onresize="resizeRock()">-->
+<!--<body onload="document.getElementById('inputTest').focus()">-->
+<body>
+<div style="margin-top: 100px; text-align: center" onmouseleave="happyRock()">
+    <img id="rockImg1" src="../resources/rock.png" alt="iRock" onclick="touchRock()" style="cursor: pointer"/>
+    <img id="rockImg2" src="../resources/rock.png" alt="iRock" style="cursor: pointer"/>
+    <form>
+        <input id="inputTest" type="text" onblur="check(this, document.getElementById('help'))"/>
+        <span id="help"></span>
+    </form>
+
+    <button id="button" onclick="hideButton()">Hide me!</button>
+</div>
+</body>
+</html>
